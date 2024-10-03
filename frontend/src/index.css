@@ -1,0 +1,49 @@
+.nav {
+  list-style: none;
+  display: inline-block;
+  margin: 10px;
+
+}
+
+.nav-link {
+  text-decoration: none;
+  color: brown;
+  font-weight: 800;
+}
+
+.home {
+  color: green;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.upload-page {
+  padding: 10px;
+  background-color: #d0f5da;
+  border-radius: 10px;
+}
+
+.btn {
+  background-color: green;
+  color: #fff;
+  padding: 5px;
+  margin-top: 10px;
+  border: 1px solid green;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.file {
+  margin-top: 10px;
+}
+
+.input {
+  width: 60%;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
